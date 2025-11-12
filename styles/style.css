@@ -9,6 +9,9 @@ body {
     font-size: 2.8rem;
     text-align: center;
     padding: 24px;
+    background-image: url("../images/istockphoto-517188688-1024x1024.jpg");
+    background-repeat: no-repeat;
+    
 }
 .header h1{
     background-color: rgb(194, 177, 152);
